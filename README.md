@@ -1,4 +1,3 @@
-# 163mc_spider
 # 利用Python2.7爬取基于AES对称加密算法的网易云音乐用户评论数据 #
 算法实现参考于知乎 https://www.zhihu.com/question/36081767/answer/140287795 
 
