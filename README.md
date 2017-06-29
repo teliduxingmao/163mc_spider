@@ -1,4 +1,4 @@
-# 163mc_spider#
+# 163mc_spider
 # 利用Python2.7爬取网易云音乐的用户评论数据 #
 算法实现参考于知乎 https://www.zhihu.com/question/36081767/answer/140287795 
 
